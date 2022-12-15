@@ -38,8 +38,8 @@ To implement  a fully connected neural network ( multi-layer perceptron) Therefo
  -Resize the image to 32x32
 
  - Use Sequential API in keras
-
  - Import layers from keras.layers
+ 
 ![](images/img.png)
  - Build  Fully connected neural network
 ![](images/img_1.png)
